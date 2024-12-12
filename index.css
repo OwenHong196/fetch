@@ -1,0 +1,36 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.flex-item{
+    width: 33%;
+}
+h6{
+    text-align: center;
+    color: #026E81;
+    font-size: 16px;
+}
+body{background-color: #d0e4f4;}
+p{
+    color: #0099DD;
+    text-align: center;
+}
+#stuff{
+    padding: 20px;
+    border-style: double;
+    background-color: rgb(49, 48, 65);
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px 0px;
+}
+img{
+    width: 100%;
+}
+#cool{
+    width: 20%;
+}
+.user{
+    color: red;
+}
